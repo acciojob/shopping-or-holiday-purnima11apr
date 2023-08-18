@@ -1,0 +1,4 @@
+{
+    "testRepo": "shopping-or-holiday-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
